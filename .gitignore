@@ -1,0 +1,6 @@
+# Environment Variables
+.env
+
+# Strapi and Data folders
+app
+data
