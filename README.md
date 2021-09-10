@@ -1,6 +1,8 @@
-# Strapi PostgreSQL - docker-compose
+# 🌈 Strapi PostgreSQL - docker-compose
 
-🌈 Strapi app with PostgreSQL powered by docker-compose
+Strapi app with PostgreSQL powered by docker-compose.
+
+<img src="https://s9.gifyu.com/images/cyyoung.png" alt="cyyoung.png" border="0" />
 
 ## Prerequisites :
 
