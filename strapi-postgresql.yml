@@ -2,6 +2,7 @@ version: '3'
 services:
   strapi:
     image: strapi/strapi
+    container_name: strapi_postgres
     environment:
       DATABASE_CLIENT: postgres
       DATABASE_NAME: ${DATABASE_NAME}
