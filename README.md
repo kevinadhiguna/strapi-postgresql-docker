@@ -4,9 +4,13 @@ Strapi app with PostgreSQL powered by docker-compose.
 
 <img src="https://s9.gifyu.com/images/cyyoung.png" alt="cyyoung.png" border="0" />
 
+<br />
+
 ## Prerequisites :
 
 You should have [docker](https://docs.docker.com/engine/install/) and [docker-compose](https://docs.docker.com/compose/install/) installed on your computer.
+
+<br />
 
 ## How to Run :
 
